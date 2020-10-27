@@ -1,0 +1,98 @@
+{
+  "main": {
+    "name":"Tharcisse Munyaneza",
+    "occupation":"Software engineer",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"a diligent and devoted final year Computer Science student in University of Rwanda | College of Science and Technology | department of Compuer Science. Team collaboration, communication skills and new systems adaptation help me to serve as a Java, Python and Mobile computing programmer in relation with ReactJs as a front End.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "munthar6@gmail.com",
+    "phone": "+250788783041 | +250781963816",
+    "address":{
+      "street":"Rwanda",
+      "city":"Kigali | ",
+      "state":"Kicukiro",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload":"/home/tossen/dev/react/mtharcisse/resume-screenshot.docx",
+    "social":[
+      
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/TharcisseMunya3",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tharcisse-munyaneza/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Tossen7",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University of Rwanda",
+        "college":"College of Sceince and Technology",
+        "degree":"Bsc with hon in Computer SCience",
+        "graduated":"2016 - 2020",
+        "description":"Currently pursuing a Bachelor's degree with honor in Computer Science. i have earned a template monster certificate of a designer in HTML and CSS, certificate of appreciation in the webinar of future of internet and a certificate of virtual volunteerism in HOJJA Africa representing Rwanda "
+      },
+      {
+        "school":"Regina Pacis School",
+        "degree":"Higher Secondary School",
+        "graduated":"2010-2015",
+        "description":"Advanced level diploma in Mathematics, Computer Science and Economics.i have earned a public speaking certificate"
+      }
+    ],
+    "work":[
+      {
+        "company":"Imbaraga farmers organization",
+        "title":"Temporary IT support services provider",
+        "years":"March 2020 - October 2020"
+        
+      },
+      {
+        "company":"Muhahe ltd",
+        "title":"Intern as a software developer",
+        "years":"July 2019 - October 2019" },
+        {
+          "company":"Nziza Safaris ltd",
+          "title":"IT support services provider",
+          "years":"january 2018 - February 2019" }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "Android development",
+        "level":"60%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5 and CSS",
+        "level":"80%"
+      }
+    ]
+  }
+}

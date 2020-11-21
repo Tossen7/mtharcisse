@@ -92,7 +92,7 @@ class Contact extends Component {
                   <ul id="twitter">
                      <li>
                         <span>
-                           Experience is the name everyone gives to their mistakes.
+                           In life there is coding vice versa.
                         </span>
                         <strong><a href="#">October 25, 2020</a></strong>
                      </li>

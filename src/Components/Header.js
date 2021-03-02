@@ -15,12 +15,12 @@ class Header extends Component {
 
     return (
       <header id="home">
-<script data-ad-client="ca-pub-4898336428583164" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       <nav id="nav-wrap">
 
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
 
+<script data-ad-client="ca-pub-4898336428583164" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
          <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
             <li><a className="smoothscroll" href="#about">About</a></li>

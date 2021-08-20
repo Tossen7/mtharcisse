@@ -4,7 +4,7 @@
     "occupation":"Software engineer",
     "description":"",
     "image":"profilepic.jpg",
-    "bio":"a diligent and devoted final year Computer Science student in University of Rwanda | College of Science and Technology | department of Compuer Science. Team collaboration, communication skills and new systems adaptation help me to serve as a Java, Python and Mobile computing programmer in relation with ReactJs as a front End.",
+    "bio":"a diligent and devoted Computer Scientist from University of Rwanda | College of Science and Technology | department of Compuer Science. Team collaboration, communication skills and new systems adaptation help me to serve as a Java, Python and Mobile computing programmer in relation with ReactJs as a front End.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "munthar6@gmail.com",
     "phone": "+250788783041 | +250781963816",
@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "",
-    "resumedownload":"/home/tossen/dev/react/mtharcisse/resume-screenshot.docx",
+    "resumedownload":"resume-screenshot.docx",
     "social":[
       
       {
@@ -43,7 +43,7 @@
         "college":"College of Sceince and Technology",
         "degree":"Bsc with hon in Computer SCience",
         "graduated":"2016 - 2020",
-        "description":"Currently pursuing a Bachelor's degree with honor in Computer Science. i have earned a template monster certificate of a designer in HTML and CSS, certificate of appreciation in the webinar of future of internet and a certificate of virtual volunteerism in HOJJA Africa representing Rwanda "
+        "description":"Bachelor's degree with honor in Computer Science. i have earned a template monster certificate of a designer in HTML and CSS, certificate of appreciation in the webinar of future of internet and a certificate of virtual volunteerism in HOJJA Africa representing Rwanda "
       },
       {
         "school":"Regina Pacis School",
@@ -55,8 +55,8 @@
     "work":[
       {
         "company":"Imbaraga farmers organization",
-        "title":"Temporary IT support services provider",
-        "years":"March 2020 - October 2020"
+        "title":"IT officer and software developer",
+        "years":"March 2020 - Now"
         
       },
       {
@@ -70,8 +70,12 @@
     ],
     "skills":[
       {
+        "name":"Django",
+        "level":"80%"
+      },
+      {
         "name":"Git",
-        "level":"60%"
+        "level":"90%"
       },
       {
         "name":"ReactJs",
@@ -90,8 +94,8 @@
         "level":"70%"
       },
       {
-        "name":"HTML5 and CSS",
-        "level":"80%"
+        "name":"Web designing",
+        "level":"100%"
       }
     ]
   }

@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Tharcisse Munyaneza",
-    "occupation":"Software engineer",
+    "occupation":"Senior Software Project Manager",
     "description":"",
     "image":"profilepic.jpg",
-    "bio":"a diligent and devoted Computer Scientist from University of Rwanda | College of Science and Technology | department of Compuer Science. Team collaboration, communication skills and new systems adaptation help me to serve as a Java, Python and Mobile computing programmer in relation with ReactJs as a front End.",
+    "bio":"Dynamic and results-driven professional with over 8 years of experience in the software development sector, specializing in project management.Adept at leading cross-functional teams, managing high-stakes projects, and delivering exceptional results within stringent deadlines. Known for my strong analytical skills, ability to adapt to evolving challenges, and commitment to continuous improvement. Proven track record of successfully coordinating diverse technical teams, optimizing processes, and ensuring seamless project delivery. Passionate about leveraging my expertise to drive innovation and success, I am eager to contribute my skills to an organization that values creativity, integrity, and excellence.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "munthar6@gmail.com",
     "phone": "+250788783041 | +250781963816",
@@ -53,6 +53,11 @@
       }
     ],
     "work":[
+      {
+        "company":"Sustainable Growers Rwanda",
+        "Title":"Senior Support Engineer",
+        "Years":"January 2024 - Now"
+      },
       {
         "company":"Tek Experts",
         "Title":"Technical Support Engineer - DTP",
